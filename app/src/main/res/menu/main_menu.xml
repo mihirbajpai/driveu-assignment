@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_export_data"
+        android:icon="@drawable/ic_export"
+        android:title="Export Data."
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_set_time"
+        android:icon="@drawable/ic_update_time"
+        android:title="Add"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_history"
+        android:icon="@drawable/ic_history"
+        android:title="Add"
+        app:showAsAction="ifRoom" />
+
+</menu>
